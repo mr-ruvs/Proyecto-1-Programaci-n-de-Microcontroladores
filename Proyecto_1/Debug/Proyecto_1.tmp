@@ -1,0 +1,191 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\Debug\Proyecto_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto_1.map</FILE>
+  <FILE>Proyecto_1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>43</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>444</LINE></ISR_PCINT0>
+  <ISR_TIMER0_OVF><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>426</LINE></ISR_TIMER0_OVF>
+  <T7S><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>53</LINE></T7S>
+  <SETUP><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>58</LINE></SETUP>
+  <Init_T0><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>414</LINE></Init_T0>
+  <LOOP><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>140</LINE></LOOP>
+  <ESTADO_XXX0><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>203</LINE></ESTADO_XXX0>
+  <ESTADO_XXX1><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>218</LINE></ESTADO_XXX1>
+  <PULSO><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>152</LINE></PULSO>
+  <INC_USEG><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1434</LINE></INC_USEG>
+  <INC_DSEG><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1437</LINE></INC_DSEG>
+  <INC_UMIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1440</LINE></INC_UMIN>
+  <INC_DMIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1443</LINE></INC_DMIN>
+  <INC_UHOR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1446</LINE></INC_UHOR>
+  <INC_DHOR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1460</LINE></INC_DHOR>
+  <ESTADO_XX00><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>208</LINE></ESTADO_XX00>
+  <ESTADO_XX10><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>231</LINE></ESTADO_XX10>
+  <ESTADO_X000><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>213</LINE></ESTADO_X000>
+  <ESTADO_X100><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>247</LINE></ESTADO_X100>
+  <ESTADO_0000><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>269</LINE></ESTADO_0000>
+  <ESTADO_1000><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>349</LINE></ESTADO_1000>
+  <ESTADO_XX01><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>223</LINE></ESTADO_XX01>
+  <ESTADO_XX11><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>239</LINE></ESTADO_XX11>
+  <ESTADO_X001><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>227</LINE></ESTADO_X001>
+  <ESTADO_X101><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>252</LINE></ESTADO_X101>
+  <ESTADO_0001><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>288</LINE></ESTADO_0001>
+  <ESTADO_1001><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>356</LINE></ESTADO_1001>
+  <ESTADO_X010><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>235</LINE></ESTADO_X010>
+  <ESTADO_X110><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>256</LINE></ESTADO_X110>
+  <ESTADO_0010><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>297</LINE></ESTADO_0010>
+  <ESTADO_1010><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>363</LINE></ESTADO_1010>
+  <ESTADO_X011><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>243</LINE></ESTADO_X011>
+  <ESTADO_X111><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>260</LINE></ESTADO_X111>
+  <ESTADO_0011><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>311</LINE></ESTADO_0011>
+  <ESTADO_1011><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>369</LINE></ESTADO_1011>
+  <ESTADO_0100><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>319</LINE></ESTADO_0100>
+  <ESTADO_0101><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>327</LINE></ESTADO_0101>
+  <ESTADO_0110><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>334</LINE></ESTADO_0110>
+  <ESTADO_0111><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>342</LINE></ESTADO_0111>
+  <USEG_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>714</LINE></USEG_DISPLAY>
+  <DSEG_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>753</LINE></DSEG_DISPLAY>
+  <UMIN_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>791</LINE></UMIN_DISPLAY>
+  <DMIN_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>828</LINE></DMIN_DISPLAY>
+  <UHOR_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>866</LINE></UHOR_DISPLAY>
+  <DHOR_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>904</LINE></DHOR_DISPLAY>
+  <ALARMA><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>399</LINE></ALARMA>
+  <UDIA_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>942</LINE></UDIA_DISPLAY>
+  <DDIA_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>979</LINE></DDIA_DISPLAY>
+  <UMES_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1016</LINE></UMES_DISPLAY>
+  <DMES_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1053</LINE></DMES_DISPLAY>
+  <UAMIN_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1090</LINE></UAMIN_DISPLAY>
+  <DAMIN_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1127</LINE></DAMIN_DISPLAY>
+  <UAHOR_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1164</LINE></UAHOR_DISPLAY>
+  <DAHOR_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1201</LINE></DAHOR_DISPLAY>
+  <ALARMA_OFF_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>391</LINE></ALARMA_OFF_DISPLAY>
+  <ALARMA_ON_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>384</LINE></ALARMA_ON_DISPLAY>
+  <H_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1278</LINE></H_DISPLAY>
+  <F_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1317</LINE></F_DISPLAY>
+  <A_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1238</LINE></A_DISPLAY>
+  <O_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1395</LINE></O_DISPLAY>
+  <N_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1356</LINE></N_DISPLAY>
+  <ISR_ESTADO_XXX0><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>456</LINE></ISR_ESTADO_XXX0>
+  <ISR_ESTADO_XXX1><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>471</LINE></ISR_ESTADO_XXX1>
+  <ISR_ESTADO_XX00><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>461</LINE></ISR_ESTADO_XX00>
+  <ISR_ESTADO_XX10><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>484</LINE></ISR_ESTADO_XX10>
+  <ISR_ESTADO_X000><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>466</LINE></ISR_ESTADO_X000>
+  <ISR_ESTADO_X100><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>500</LINE></ISR_ESTADO_X100>
+  <ISR_ESTADO_0000><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>525</LINE></ISR_ESTADO_0000>
+  <ISR_ESTADO_1000><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>615</LINE></ISR_ESTADO_1000>
+  <ISR_ESTADO_XX01><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>476</LINE></ISR_ESTADO_XX01>
+  <ISR_ESTADO_XX11><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>492</LINE></ISR_ESTADO_XX11>
+  <ISR_ESTADO_X001><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>480</LINE></ISR_ESTADO_X001>
+  <ISR_ESTADO_X101><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>505</LINE></ISR_ESTADO_X101>
+  <ISR_ESTADO_0001><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>537</LINE></ISR_ESTADO_0001>
+  <ISR_ESTADO_1001><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>627</LINE></ISR_ESTADO_1001>
+  <ISR_ESTADO_X010><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>488</LINE></ISR_ESTADO_X010>
+  <ISR_ESTADO_X110><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>510</LINE></ISR_ESTADO_X110>
+  <ISR_ESTADO_0010><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>546</LINE></ISR_ESTADO_0010>
+  <ISR_ESTADO_1010><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>636</LINE></ISR_ESTADO_1010>
+  <ISR_ESTADO_X011><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>496</LINE></ISR_ESTADO_X011>
+  <ISR_ESTADO_X111><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>515</LINE></ISR_ESTADO_X111>
+  <ISR_ESTADO_0011><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>555</LINE></ISR_ESTADO_0011>
+  <ISR_ESTADO_1011><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>645</LINE></ISR_ESTADO_1011>
+  <ISR_ESTADO_0100><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>567</LINE></ISR_ESTADO_0100>
+  <ISR_POP_PCINT0><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>660</LINE></ISR_POP_PCINT0>
+  <ISR_ESTADO_0101><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>579</LINE></ISR_ESTADO_0101>
+  <ISR_ESTADO_0110><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>591</LINE></ISR_ESTADO_0110>
+  <ISR_ESTADO_0111><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>603</LINE></ISR_ESTADO_0111>
+  <ISR_INC_UHOR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1687</LINE></ISR_INC_UHOR>
+  <ISR_DEC_UHOR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1707</LINE></ISR_DEC_UHOR>
+  <ISR_INC_UDIA><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1873</LINE></ISR_INC_UDIA>
+  <ISR_DEC_DIA><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2005</LINE></ISR_DEC_DIA>
+  <ISR_INC_A_UHOR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1774</LINE></ISR_INC_A_UHOR>
+  <ISR_DEC_A_UHOR><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1794</LINE></ISR_DEC_A_UHOR>
+  <ISR_INC_UMIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1650</LINE></ISR_INC_UMIN>
+  <ISR_DEC_UMIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1668</LINE></ISR_DEC_UMIN>
+  <ISR_INC_UMES><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1825</LINE></ISR_INC_UMES>
+  <ISR_DEC_UMES><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1847</LINE></ISR_DEC_UMES>
+  <ISR_INC_A_UMIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1735</LINE></ISR_INC_A_UMIN>
+  <ISR_DEC_A_UMIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1753</LINE></ISR_DEC_A_UMIN>
+  <ISR_ESTADO_1011_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>651</LINE></ISR_ESTADO_1011_2>
+  <TEST_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>670</LINE></TEST_DISPLAY>
+  <TEST_LISTA_DISPLAY><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>693</LINE></TEST_LISTA_DISPLAY>
+  <INC_UHOR_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1457</LINE></INC_UHOR_2>
+  <INC_UDIA><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1467</LINE></INC_UDIA>
+  <MES_1X><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1602</LINE></MES_1X>
+  <MES_0X><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1578</LINE></MES_0X>
+  <INC_UDIA_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1473</LINE></INC_UDIA_2>
+  <INC_DDIA><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1476</LINE></INC_DDIA>
+  <INC_UMES><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1479</LINE></INC_UMES>
+  <INC_UMES_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1491</LINE></INC_UMES_3>
+  <INC_UMES_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1497</LINE></INC_UMES_2>
+  <INC_DMES><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1500</LINE></INC_DMES>
+  <INC_DMES_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1506</LINE></INC_DMES_2>
+  <MES_31D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1512</LINE></MES_31D_2>
+  <MES_30D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1528</LINE></MES_30D_2>
+  <MES_28D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1544</LINE></MES_28D_2>
+  <MES_28D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1562</LINE></MES_28D>
+  <MES_31D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1614</LINE></MES_31D>
+  <MES_30D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1630</LINE></MES_30D>
+  <ISR_INC_UMIN_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1656</LINE></ISR_INC_UMIN_2>
+  <ISR_INC_DMIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1659</LINE></ISR_INC_DMIN>
+  <ISR_INC_DMIN_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1665</LINE></ISR_INC_DMIN_2>
+  <ISR_DEC_UMIN_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1678</LINE></ISR_DEC_UMIN_2>
+  <ISR_DEC_UMIN_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1681</LINE></ISR_DEC_UMIN_3>
+  <ISR_INC_UHOR_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1697</LINE></ISR_INC_UHOR_2>
+  <ISR_INC_UHOR_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1704</LINE></ISR_INC_UHOR_3>
+  <ISR_DEC_UHOR_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1720</LINE></ISR_DEC_UHOR_3>
+  <ISR_DEC_UHOR_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1717</LINE></ISR_DEC_UHOR_2>
+  <ISR_INC_A_UMIN_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1741</LINE></ISR_INC_A_UMIN_2>
+  <ISR_INC_A_DMIN><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1744</LINE></ISR_INC_A_DMIN>
+  <ISR_INC_A_DMIN_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1750</LINE></ISR_INC_A_DMIN_2>
+  <ISR_DEC_A_UMIN_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1765</LINE></ISR_DEC_A_UMIN_2>
+  <ISR_DEC_A_UMIN_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1768</LINE></ISR_DEC_A_UMIN_3>
+  <ISR_INC_A_UHOR_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1784</LINE></ISR_INC_A_UHOR_2>
+  <ISR_INC_A_UHOR_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1791</LINE></ISR_INC_A_UHOR_3>
+  <ISR_DEC_A_UHOR_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1809</LINE></ISR_DEC_A_UHOR_3>
+  <ISR_DEC_A_UHOR_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1806</LINE></ISR_DEC_A_UHOR_2>
+  <ISR_INC_UMES_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1839</LINE></ISR_INC_UMES_3>
+  <ISR_INC_UMES_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1836</LINE></ISR_INC_UMES_2>
+  <ISR_DEC_UMES_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1859</LINE></ISR_DEC_UMES_2>
+  <ISR_DEC_UMES_3><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1867</LINE></ISR_DEC_UMES_3>
+  <ISR_MES_1X><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1915</LINE></ISR_MES_1X>
+  <ISR_MES_0X><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1894</LINE></ISR_MES_0X>
+  <ISR_MES_28D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1878</LINE></ISR_MES_28D>
+  <ISR_MES_28D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1987</LINE></ISR_MES_28D_2>
+  <ISR_INC_UDIA_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1965</LINE></ISR_INC_UDIA_2>
+  <ISR_MES_31D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1924</LINE></ISR_MES_31D>
+  <ISR_MES_30D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1937</LINE></ISR_MES_30D>
+  <ISR_MES_31D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1950</LINE></ISR_MES_31D_2>
+  <ISR_MES_30D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1972</LINE></ISR_MES_30D_2>
+  <ISR_INC_DDIA><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>1968</LINE></ISR_INC_DDIA>
+  <ISR_DEC_MES_1X><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2058</LINE></ISR_DEC_MES_1X>
+  <ISR_DEC_MES_0X><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2037</LINE></ISR_DEC_MES_0X>
+  <ISR_DEC_MES_28D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2011</LINE></ISR_DEC_MES_28D>
+  <ISR_DECREMENTAR_28D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2026</LINE></ISR_DECREMENTAR_28D_2>
+  <ISR_DECREMENTAR_28D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2023</LINE></ISR_DECREMENTAR_28D>
+  <ISR_DEC_MES_31D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2068</LINE></ISR_DEC_MES_31D>
+  <ISR_DEC_MES_30D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2092</LINE></ISR_DEC_MES_30D>
+  <ISR_DECREMENTAR_31D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2083</LINE></ISR_DECREMENTAR_31D_2>
+  <ISR_DECREMENTAR_31D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2080</LINE></ISR_DECREMENTAR_31D>
+  <ISR_DECREMENTAR_30D_2><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2107</LINE></ISR_DECREMENTAR_30D_2>
+  <ISR_DECREMENTAR_30D><FILE>C:\Users\Ruben\OneDrive - Universidad del Valle de Guatemala\Ciclo_5\progra_micro\Reloj\Proyecto_1\Proyecto_1\main.asm</FILE><LINE>2104</LINE></ISR_DECREMENTAR_30D>
+ </LABELS>
+</ASSEMBLER_INFO>
