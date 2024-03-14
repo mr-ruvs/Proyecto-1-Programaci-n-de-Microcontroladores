@@ -7,3 +7,4 @@ Interrupción de OverFlow junto con el Timer 0 para llevar el conteo del reloj.
 Interrupción externa mediante pines en configuración pull-up interno.
 
 Aquí encontrarás los enlaces donde se explica el funcionamiento las secciones del código:
+1. https://www.youtube.com/watch?v=Jp1ZtctHs6w
